@@ -6,6 +6,16 @@ Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
+
+##  This is just a Forked copy of the original Repo
+This is just my Repo of the work, as I go through it - So the finished answers have been removed
+And I will fill in the days as I go
+
+
+
+
+
+
 ## Community #JavaScript30 Content
 
 Feel free to submit a PR adding a link to your own recaps, guides or reviews!
